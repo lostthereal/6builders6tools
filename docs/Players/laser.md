@@ -17,10 +17,10 @@ tags:
 * [YouTube](https://www.youtube.com/@Laserspy)
 * [namemc](https://namemc.com/profile/Laserspyy.1)
 
-## Joindate
+## Join date
 * 6b6t: December 2023
 
-## Acomplishments
+## Accomplishments
 * Built a huge ass jesus at his base
 * Griefed an Imperial Wall with [scarthebest1943](../Players/scar.md)
 * Got invited into cumgang and built stuff at their bases

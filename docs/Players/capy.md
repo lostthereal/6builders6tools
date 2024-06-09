@@ -17,10 +17,10 @@ tags:
 * [YouTube](https://www.youtube.com/@CapyKing10_)
 * [NameMC](https://namemc.com/profile/CapyKing10.1)
 
-## Joindate
+## Join date
 * 6b6t: 25 march 2023
 
-## Acomplishments
+## Accomplishments
 * Made alot of 6b6t videos (Mostly griefing)
 * Contributed to the largest mapart in the server!
 * Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h!

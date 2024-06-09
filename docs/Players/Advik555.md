@@ -17,16 +17,15 @@ tags:
 * [YouTube](https://www.youtube.com/channel/UCoEpKXImySV-CEHe9pLEfjg/)
 
 ## Minecraft Account list
-* advik123
-* advikbot
-* advik555
+* Advik123
+* Advikbot
+* Advik555
 * elf_bitchard
 * youknowmyalt
 * Adick555
 * karnage4556
-* advikbot
 
-## Acomplishments
+## Accomplishments
 - Founder of The [555](https://github.com/Verification-failed/6b6twiki/blob/main/docs/Groups/555.md)
 - Flown 46+ million blocks the server
 - Discovered /name exploit (not the first to find it but did find it independently)
@@ -38,7 +37,7 @@ tags:
 - mapart empire (period of inactivity)
 - cumgang
 - the legion
-- (many other clans too small to be noteable)
+- (many other clans too small to be notable)
 
 ### Previous clans
 - Cheese clan (*died*)

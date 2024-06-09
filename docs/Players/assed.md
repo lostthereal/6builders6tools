@@ -13,11 +13,11 @@ tags:
 ## Contacts
 * Discord: `assed_`
 
-## Joindate
+## Join date
 * 6b6t: 27 febraury 2023
 
 
-## Acomplishments
+## Accomplishments
 - Reached nether border traveling by hand from 0 0
 - Griefed several bases and megabases
 - Removed 70% of the obsidian box at spawn, full vanilla

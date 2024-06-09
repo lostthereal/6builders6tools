@@ -15,10 +15,10 @@ tags:
 ## Contacts
 * Discord: `bd71legend.`
 
-## Joindate
+## Join date
 * 7b7t: mid 2021 (exact date unclear)
 
-## Acomplishments
+## Accomplishments
 * One of the most known griefers
 * Contributing to the largest mapart on 6b6t
 

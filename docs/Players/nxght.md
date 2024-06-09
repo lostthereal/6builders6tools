@@ -16,10 +16,10 @@ tags:
 * Discord: `xinxghtmar3ix`
 * [NameMC](https://namemc.com/profile/xiNxghtMar3ix.1)
 
-## Joindate
+## Join date
 * 6b6t: 18 october 2022
 
-## Acomplishments
+## Accomplishments
 * Contributed to Imperials logo grief.
 * Contributed to CumGang's comminuty base projects.
 

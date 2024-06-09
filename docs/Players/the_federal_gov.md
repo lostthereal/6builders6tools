@@ -18,7 +18,7 @@ tags:
 * Discord: `the_federal_gov`
 * [NameMC](https://namemc.com/profile/the_federal_gov)
 
-## Joindate
+## Join date
 * 6b6t: Late 2022/early 2023 (exact date unclear)
 
 ## Acomplishments
